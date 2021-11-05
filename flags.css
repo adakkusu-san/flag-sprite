@@ -156,7 +156,7 @@
 .flag-ne{background-position:-48px -110px}
 .flag-nf{background-position:-64px -110px}
 .flag-ng{background-position:-80px -110px}
-.flag-ni{background-position:-96px -110px}
+.flag-ni/*qqa*/{background-position:-96px -110px}
 .flag-nl,.flag-bq{background-position:-112px -110px}
 .flag-no,.flag-bv,.flag-sj{background-position:-128px -110px}
 .flag-np{background-position:-144px -110px}
@@ -237,7 +237,6 @@
 .flag-za{background-position:-192px -165px}
 .flag-zm{background-position:-224px -165px}
 .flag-zw{background-position:-240px -165px}
-.flag-an{background-position:-128px 0}
 .flag-aq{background-position:0 -22px}
 .flag-catalonia{background-position:-80px -22px}
 .flag-eh{background-position:-16px -44px}
@@ -247,6 +246,7 @@
 .flag-gp{background-position:-160px -132px}
 .flag-ic{background-position:-80px -66px}
 .flag-kurdistan{background-position:-192px -77px}
+.flag-un{background-position:-128px 0}
 .flag-scotland{background-position:-64px -132px}
 .flag-somaliland{background-position:0 -143px}
 .flag-sx{background-position:-80px -143px}
